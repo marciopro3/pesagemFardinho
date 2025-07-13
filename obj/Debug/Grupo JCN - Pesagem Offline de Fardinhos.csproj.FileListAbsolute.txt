@@ -1,0 +1,24 @@
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\Grupo JCN - Pesagem Offline de Fardinhos.exe.config
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\Grupo JCN - Pesagem Offline de Fardinhos.exe
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\Grupo JCN - Pesagem Offline de Fardinhos.pdb
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JCN - Pesagem Offline de Fardinhos.csproj.AssemblyReference.cache
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo_JCN___Pesagem_Offline_de_Fardinhos.Properties.Resources.resources
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JCN - Pesagem Offline de Fardinhos.csproj.GenerateResource.cache
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JCN - Pesagem Offline de Fardinhos.csproj.CoreCompileInputs.cache
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JCN - Pesagem Offline de Fardinhos.exe
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JCN - Pesagem Offline de Fardinhos.pdb
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\EntityFramework.dll
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\System.Data.SQLite.dll
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\EntityFramework.xml
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\bin\Debug\System.Data.SQLite.xml
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JCN - Pesagem Offline de Fardinhos.exe.config
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo_JCN___Pesagem_Offline_de_Fardinhos.Login.resources
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo_JCN___Pesagem_Offline_de_Fardinhos.Pagina.resources
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo JC.BE3EB8D9.Up2Date
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo_JCN___Pesagem_Offline_de_Fardinhos.Cadastro.resources
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo_JCN___Pesagem_Offline_de_Fardinhos.Captura.resources
+C:\Users\LinkMedia\Desktop\Grupo JCN - Pesagem Offline de Fardinhos\obj\Debug\Grupo_JCN___Pesagem_Offline_de_Fardinhos.Configuracoes.resources
